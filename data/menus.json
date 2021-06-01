@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "thumbnail": "https://www.kibrispdr.org/data/gambar-ayam-lalapan-46.jpg",
+    "name": "Ayam Goreng",
+    "type": "Makanan",
+    "description": "🐔 Ayam goreng ungkep renyah dengan bumbu istimewa, dimakan dengan sambel nikmat beserta lalapan mantab",
+    "price": 15000
+  },
+  {
+    "id": 1,
+    "thumbnail": "https://awsimages.detik.net.id/community/media/visual/2020/08/18/nasi-goreng-pedas_43.jpeg?w=700&q=90",
+    "name": "Nasi Goreng",
+    "type": "Makanan",
+    "description": "Nasi goreng pedas istimewa, lengkap dengan taburan daging ayam dan telur mata sapi 🍳",
+    "price": 12000
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://asset.kompas.com/crops/s2MqIlRGJem3GBz90mlCauYITvE=/0x0:1000x667/750x500/data/photo/2020/07/27/5f1e343b4d8b7.jpg",
+    "name": "Sup Iga Sapi",
+    "type": "Makanan",
+    "description": "Sup nikmat dilengkapi daging iga sapi, cocok buat anda yang lagi butuh kehangatan 🍲",
+    "price": 24000
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://nilaigizi.com/assets/images/produk/produk_1578041377.jpg",
+    "name": "Es Teh",
+    "type": "Minuman",
+    "description": "Ini es teh biasa kok, cuman dipakein gula murni buat pelengkap manisnya hari-harimu 😬",
+    "price": 4000
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://bakingmischief.com/wp-content/uploads/2020/04/caramel-milkshake-image-square.jpg",
+    "name": "Milkshake Karamel",
+    "type": "Minuman",
+    "description": "Susu kocok dingin dengan topping karamel manis nan meleleh di mulut 🍨, bikin nagih sumpah ga boong deh",
+    "price": 10000
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://cdn.idntimes.com/content-images/community/2021/01/fromandroid-4df0ed11b58c2dae0a623432f32a3919.jpg",
+    "name": "Bubur Ayam",
+    "type": "Makanan",
+    "description": "Gak peduli kamu tim diaduk atau bukan 🥣, sarapan pake buryam ini bisa bikin awal harimu makin semangat!",
+    "price": 13500
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://cdn.idntimes.com/content-images/community/2019/05/empek-empek-c37ce3ca497f25a19c8ac31767ee888c_600x400.jpg",
+    "name": "Pempek Palembang",
+    "type": "Makanan",
+    "description": "Blom pernah nyobain pempek kapal selam? sok cobain deh, gurih-gurih nyoy pokoknya 😆",
+    "price": 19000
+  },
+  {
+    "id": 7,
+    "thumbnail": "https://asset.kompas.com/crops/4aqOaU_1HDJzJZDlhtm1mFQFmSM=/0x0:698x465/750x500/data/photo/2021/01/08/5ff86f55cf2e4.jpg",
+    "name": "Bakso Sapi",
+    "type": "Makanan",
+    "description": "Siapa sih yang ngga suka bakso? bola-bola daging imut ini bisa ngobatin rasa rindu kamu di kala hujan lho! 💦",
+    "price": 12000
+  }
+]
